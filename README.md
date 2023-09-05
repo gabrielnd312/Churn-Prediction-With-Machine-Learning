@@ -8,16 +8,22 @@ A complete project in data science and machine learning. Exploratory analysis, b
   <img src="kelly-sikkema-MsddXGPfQlA-unsplash.jpg" >
 </p>
 
-Apple is one of the largest companies in the world in the field of electronics and software. It was founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne.
+Churn rate, also known as customer attrition or customer turnover, is a vital metric for businesses that measures the percentage of customers who cease their engagement or subscription with a company over a specific period.
 
-The duo attempted to sell their project to HP and Atari, but both companies declined, stating that personal computers had no future in the market. Faced with the disbelief of major companies in their work, the pair decided to produce computers using their own resources and sell them independently.
+We can exemplify with a streaming service company, the churn analysis is done on top of subscribers who canceled the service in a given period analyzed.
+This period can be varied, in week, month, bimonthly, half-yearly, annual or other options.
 
-Despite some initially market underperforming products and several failures, Apple has become one of the most important companies in the world and frequently competes for the title of the world's most valuable company.
+This metric helps companies gauge the health of their customer base and the effectiveness of their customer retention strategies.
 
-Today, their products are renowned worldwide. However, another interesting perspective on the company's history is to track the price of its stock over time.
+Understanding churn rate is crucial because it directly impacts a company's revenue and growth potential.
+A high churn rate indicates that a significant number of customers are leaving, potentially leading to a decline in revenue. On the other hand, a low churn rate signifies strong customer loyalty and a stable revenue stream.
 
-This analysis aims to highlight key milestones in the company's history through its stock value, indicating significant market moments, the stability of its growth, and its current situation.
+By analyzing churn rate and its associated factors like customer satisfaction, engagement, and loyalty, companies can make informed decisions to enhance their products, services, and customer support. Churn prediction and management strategies can be developed to proactively address issues and improve customer retention. Ultimately, keeping churn rate in check fosters sustainable growth and strengthens a company's competitive position in the market.
 
+
+In the project carried out, we identified the main points of the company performing an extensive exploratory analysis, filtered the necessary variables with Feature Engineering, created a baseline for the predictive model, as well as customized our Machine Learning model based on XGBoost.
+
+For the complete work, follow the links below.
 
 
 # Link to the article of this project on Medium:
