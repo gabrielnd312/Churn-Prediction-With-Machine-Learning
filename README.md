@@ -27,4 +27,4 @@ For the complete work, follow the links below.
 
 
 # Link to the article of this project on Medium:
---- Apple Stock History Analysis => https://medium.com/@gabrielnduarte/apple-stock-historical-analysis-8044684b443a
+--- Churn Prediction With Machine Learning => https://medium.com/@gabrielnduarte/churn-prediction-with-machine-learning-a2207029662
